@@ -1,23 +1,5 @@
 # Hi there 👋
-
-## 📚 Projects
-- **hanilians** UXUI Design, FE & BE development
-  > [`hanilians.xyz`](https://hanilians.xyz)
-
-- **isegyechart** UXUI Design
-  > [`isegye.live`](https://isegye.live/)
-  
-- **Waktaverse Games** UXUI Design Lead
-  > [`waktaverse.games (legacy web)`](https://waktaverse.games/)
-
-- **RE : FIND** UXUI Design
-  > [`re-find.xyz`](https://re-find.xyz/)
-
-- **WJMAX** In-game UXUI Design
-  > [`link`](https://waktaverse.games/gameDetail/wjmax)
-
-- **tadak (ex. Keystum)** UXUI Design Lead
-  > [`tadak GitHub org`](https://github.com/Keystum)
+zero-stack uxui designer studioayo here 😝
 
 <br/>
 
@@ -37,5 +19,27 @@
 > ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=photoshop&logoColor=white)
 > ![Illustrator](https://img.shields.io/badge/Illustrator-954818.svg?&style=for-the-badge&logo=illustrator&logoColor=white)
 > ![InDesign](https://img.shields.io/badge/InDesign-951833.svg?&style=for-the-badge&logo=indesign&logoColor=white)
-> ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-> ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+<br/>
+
+## 📚 Projects
+- **hanilians** UXUI Design, FE & BE development
+  > [`hanilians.xyz`](https://hanilians.xyz)
+
+- **isegyechart** UXUI Design
+  > [`isegye.live`](https://isegye.live/)
+  
+- **Waktaverse Games** UXUI Renewal Lead
+  > [`waktaverse.games (legacy web)`](https://waktaverse.games/)
+
+- **RE : FIND** UXUI Design
+  > [`re-find.xyz`](https://re-find.xyz/)
+
+- **WJMAX** In-game UXUI Design
+  > [`link`](https://waktaverse.games/gameDetail/wjmax)
+
+- **tadak (ex. Keystum)** UXUI Lead
+  > [`tadak GitHub org`](https://github.com/Keystum)
+
+
+
