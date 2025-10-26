@@ -2,7 +2,7 @@
 
 > my personal dev project hanilians [link](<https://www.hanilians.xyz/>)
 <br>
-uxui designer who is interested in software engineering & infosec <br> nice to meet you
+**hanil high school 37th & KAIST CCE 14th** <br> uxui designer who is interested in software engineering & infosec <br> nice to meet you
 
 <!--
 **studioayo/studioayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
