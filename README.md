@@ -1,5 +1,7 @@
 ## Hi there 👋
+<br>
 
+![logo_dark](https://github.com/user-attachments/assets/5a6bd8ff-4112-48ed-8c02-2a7044aaf267)
 > my personal dev project hanilians [link](<https://www.hanilians.xyz/>)
 <br>
 **hanil high school 37th & KAIST CCE 14th** <br> uxui designer who is interested in software engineering & infosec <br> nice to meet you
